@@ -1,0 +1,32 @@
+﻿FRIENDS BOOK
+Top of Form
+Your Name: 
+
+1. A message for me:
+
+
+
+2. A nick for me:
+
+
+
+3. Have you ever lied to me:
+
+Yes Maybe
+
+4. How do you feel when you talk to me:
+
+Happy Irritated
+
+5. Do you like to go on a roadtrip with me:
+
+Yes No
+
+6. Best Colour that suits me:
+
+White Black Green Blue
+
+7.The best moment in our Friendship:
+
+
+Bottom of Form

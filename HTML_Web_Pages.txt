@@ -1,10 +1,0 @@
-﻿TABLES AND LISTS
-Roll NoNameCourseDepartment001AAASDPCSE002BBBC++CSENo of Courses Available
-* Computer Science
-* Electronics
-* Aeronautics
-* Mechanical
-* Artificial Intelligence
-Top of Form
-Submit 
-Bottom of Form
